@@ -1,2 +1,2 @@
-# leetcode-streaks
+# DSA-JAVA
 Leetcode solutions
